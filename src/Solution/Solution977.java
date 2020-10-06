@@ -1,12 +1,31 @@
 package Solution;
-
-import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Stack;
 
 public class Solution977 {
-    public Object[] sortedSquares(int[] A) {
+    public int[] sortedSquares(int[] A) {
+        int n = A.length;
+        int[] result = new int[n];
+        int i = 0, j = n - 1;
+        for (int p = n - 1; p >= 0; p--) {
+            if (Math.abs(A[i]) > Math.abs(A[j])) {
+                result[p] = A[i] * A[i];
+                i++;
+            } else {
+                result[p] = A[j] * A[j];
+                j--;
+            }
+        }
+        return result;
+    }
+}
+
+
+class Solution977_S1 {
+    public int[] sortedSquares(int[] A) {
         Stack<Integer> negtiveNums = new Stack<Integer>();
-        ArrayList<Integer> result = new ArrayList<Integer>();
+        int[] result = new int[A.length];
+        int i = 0;
 
         for(int a : A){
             int sqrCur = a * a;
@@ -14,11 +33,20 @@ public class Solution977 {
                 negtiveNums.push(sqrCur);
                 continue;
             }
-            while(sqrCur > (int)negtiveNums.peek()){
-                result.add((int)negtiveNums.pop());
+            while(!negtiveNums.empty() && sqrCur > (int)negtiveNums.peek()){
+                result[i] = (int)negtiveNums.pop();
+                i++;
             }
-            result.add(sqrCur);
+            result[i] = sqrCur;
+            i ++;
         }
-        return result.toArray();
+
+        while(!negtiveNums.empty()){
+            result[i] = (int)negtiveNums.pop();
+            i++;
+        }
+
+        System.out.println(Arrays.toString(result));
+        return result;
     }
 }

@@ -1,9 +1,10 @@
-import Solution.Solution977;
+import Solution.Solution27;
 
 public class Main {
     public static void main(String [] args) {
-        Solution977 solution = new Solution977();
-        int[] nums = {12,345,2,6,7896};
-        System.out.println(solution.sortedSquares(nums));
+        Solution27 solution = new Solution27();
+        int[] nums = {3,2,2,3};
+        int val = 3;
+        System.out.println(solution.removeElement(nums, val));
     }
 }

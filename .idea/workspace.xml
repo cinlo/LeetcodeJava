@@ -11,15 +11,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbe5c8ce-78c2-4a83-b02a-623053821913" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetcodeJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/Solution1295.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/Solution485.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/Solution977.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Solution1089.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Solution1099.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Solution27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Solution88.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Solution/Solution977.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Solution/Solution977.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/Solution977.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Solution977.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +103,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="328" y="81" key="#Project_Structure" timestamp="1601508168197">
@@ -125,29 +126,34 @@
       <screen x="0" y="25" width="1680" height="956" />
     </state>
     <state x="578" y="254" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1680.956@0.25.1680.956" timestamp="1601512104567" />
-    <state width="1638" height="255" key="GridCell.Tab.0.bottom" timestamp="1601516378731">
-      <screen x="0" y="25" width="1680" height="956" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1601945443287">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1601945443287" />
     <state width="1638" height="255" key="GridCell.Tab.0.bottom/0.25.1680.956@0.25.1680.956" timestamp="1601516378731" />
-    <state width="1638" height="255" key="GridCell.Tab.0.center" timestamp="1601516378731">
-      <screen x="0" y="25" width="1680" height="956" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1601945443287">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1601945443287" />
     <state width="1638" height="255" key="GridCell.Tab.0.center/0.25.1680.956@0.25.1680.956" timestamp="1601516378731" />
-    <state width="1638" height="255" key="GridCell.Tab.0.left" timestamp="1601516378731">
-      <screen x="0" y="25" width="1680" height="956" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1601945443286">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1601945443286" />
     <state width="1638" height="255" key="GridCell.Tab.0.left/0.25.1680.956@0.25.1680.956" timestamp="1601516378731" />
-    <state width="1638" height="255" key="GridCell.Tab.0.right" timestamp="1601516378731">
-      <screen x="0" y="25" width="1680" height="956" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1601945443287">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1601945443287" />
     <state width="1638" height="255" key="GridCell.Tab.0.right/0.25.1680.956@0.25.1680.956" timestamp="1601516378731" />
     <state x="428" y="250" key="IDE.errors.dialog" timestamp="1601510762798">
       <screen x="0" y="25" width="1680" height="956" />
     </state>
     <state x="428" y="250" key="IDE.errors.dialog/0.25.1680.956@0.25.1680.956" timestamp="1601510762798" />
-    <state x="505" y="235" key="search.everywhere.popup" timestamp="1601509264830">
-      <screen x="0" y="25" width="1680" height="956" />
+    <state x="505" y="231" width="670" height="676" key="search.everywhere.popup" timestamp="1601940214058">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state x="505" y="231" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1601940214058" />
     <state x="505" y="235" key="search.everywhere.popup/0.25.1680.956@0.25.1680.956" timestamp="1601509264830" />
   </component>
 </project>
