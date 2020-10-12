@@ -1,10 +1,12 @@
-import Solution.Solution27;
+import Solution.Solution1299;
+
+import java.util.Arrays;
 
 public class Main {
     public static void main(String [] args) {
-        Solution27 solution = new Solution27();
-        int[] nums = {3,2,2,3};
-        int val = 3;
-        System.out.println(solution.removeElement(nums, val));
+        Solution1299 solution = new Solution1299();
+        int[] nums = {0,3,2,1};
+        int[] res = solution.replaceElements(nums);
+        System.out.println(Arrays.toString(res));
     }
 }
