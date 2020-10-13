@@ -1,20 +1,22 @@
-import Solution.Solution859;
+import Solution.Solution905;
 
 import java.util.Arrays;
 
 public class Main {
     public static void main(String [] args) {
-        Solution859 solution = new Solution859();
-        String A = "ab";
-        String B = "ba";
+        Solution905 solution = new Solution905();
+        int[] nums = {3,1,2,4};
 
 //        *** if return an array
-//        int[] res = solution.replaceElements(nums);
-//        System.out.println(Arrays.toString(res));
+        int[] res = solution.sortArrayByParity(nums);
+        System.out.println(Arrays.toString(res));
+
+//        *** if return printable
+//        System.out.println(solution.buddyStrings(A, B));
 
 
-        System.out.println(solution.buddyStrings(A, B));
-
+//        solution.moveZeroes(nums);
+//        System.out.println(Arrays.toString(nums));
 
     }
 }
