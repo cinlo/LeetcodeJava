@@ -1,18 +1,18 @@
-import Solution.Solution905;
+import Solution.Solution228;
 
 import java.util.Arrays;
 
 public class Main {
     public static void main(String [] args) {
-        Solution905 solution = new Solution905();
-        int[] nums = {3,1,2,4};
+        Solution228 solution = new Solution228();
+        int[] nums = {0,1,2,4,5,7};
 
 //        *** if return an array
-        int[] res = solution.sortArrayByParity(nums);
-        System.out.println(Arrays.toString(res));
+//        int[] res = solution.sortArrayByParity(nums);
+//        System.out.println(Arrays.toString(res));
 
 //        *** if return printable
-//        System.out.println(solution.buddyStrings(A, B));
+        System.out.println(solution.summaryRanges(nums));
 
 
 //        solution.moveZeroes(nums);
