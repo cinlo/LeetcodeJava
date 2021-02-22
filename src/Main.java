@@ -4,13 +4,11 @@ import Solution.Solution4;
 public class Main{
     public static void main(String [] args){
         Solution4 solution = new Solution4();
-        int[] nums1 = {4,5,6,8,9};
-        int[] nums2 = {};
+        int[] nums1 = {1,3};
+        int[] nums2 = {2};
         System.out.println(solution.findMedianSortedArrays(nums1, nums2));
     }
 }
-
-
 
 
 //
