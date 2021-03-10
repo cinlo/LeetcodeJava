@@ -1,11 +1,13 @@
 
-import Solution.Solution20;
+import Solution.Solution66;
+
+import java.util.Arrays;
 
 public class Main{
     public static void main(String [] args){
-        Solution20 solution = new Solution20();
-        String x = "([)]";
-        System.out.println(solution.isValid(x));
+        Solution66 solution = new Solution66();
+        int[] n  = {9,9};
+        System.out.println(Arrays.toString(solution.plusOne(n)));
     }
 
 }
