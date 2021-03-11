@@ -1,13 +1,16 @@
 
-import Solution.Solution66;
-
-import java.util.Arrays;
+import Solution.*;
+import Structure.*;
 
 public class Main{
     public static void main(String [] args){
-        Solution66 solution = new Solution66();
-        int[] n  = {9,9};
-        System.out.println(Arrays.toString(solution.plusOne(n)));
+        int[] x = {1,1,3,3,3,2,2,3,3,3,3,3,3};
+        ListNode list = new ListNode();
+        list = list.arrayToList(x);
+
+        Solution83 solution = new Solution83();
+        ListNode res = solution.deleteDuplicates(list);
+        System.out.println( res.nodeToString(res) );
     }
 
 }
