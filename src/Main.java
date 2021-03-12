@@ -4,13 +4,12 @@ import Structure.*;
 
 public class Main{
     public static void main(String [] args){
-        int[] x = {1,1,3,3,3,2,2,3,3,3,3,3,3};
+        int[] x = {1,2,2,3,4,4,3};
         ListNode list = new ListNode();
         list = list.arrayToList(x);
 
-        Solution83 solution = new Solution83();
-        ListNode res = solution.deleteDuplicates(list);
-        System.out.println( res.nodeToString(res) );
+        Solution101 solution = new Solution101();
+        System.out.println(solution.isSymmetric(list));
     }
 
 }
