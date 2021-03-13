@@ -7,7 +7,6 @@ public class TreeNode {
     public TreeNode( int val ) {
         this.val=val;
     }
-}
 
     public TreeNode arrayToTree( Integer[] input ) {
         TreeNode root=createTreeNode(input, 1);
@@ -26,3 +25,4 @@ public class TreeNode {
         }
         return null;
     }
+}

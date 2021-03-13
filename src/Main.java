@@ -1,15 +1,11 @@
 
 import Solution.*;
-import Structure.*;
 
 public class Main{
     public static void main(String [] args){
-        int[] x = {1,2,2,3,4,4,3};
-        ListNode list = new ListNode();
-        list = list.arrayToList(x);
-
-        Solution101 solution = new Solution101();
-        System.out.println(solution.isSymmetric(list));
+        int n = 5;
+        Solution118 solution = new Solution118();
+        System.out.println( solution.generate(n).get(4) );
     }
 
 }
