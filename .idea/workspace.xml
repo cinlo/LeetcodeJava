@@ -11,11 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbe5c8ce-78c2-4a83-b02a-623053821913" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solution/Solution141.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/Solution155.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/Solution160.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/Solution167.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/Solution168.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Solution169.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Solution171.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Solution172.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Solution189.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -152,9 +151,9 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1638" height="364" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1615426799612" />
-    <state x="505" y="231" width="670" height="676" key="search.everywhere.popup" timestamp="1615409494322">
+    <state x="505" y="231" width="670" height="676" key="search.everywhere.popup" timestamp="1615926975765">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="505" y="231" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1615409494322" />
+    <state x="505" y="231" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1615926975765" />
   </component>
 </project>
