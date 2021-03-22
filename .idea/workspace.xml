@@ -11,11 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbe5c8ce-78c2-4a83-b02a-623053821913" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solution/Solution217.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/Solution225.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/Solution231.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/Solution234.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/Solution235.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Solution237.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Solution242.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Solution257.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Solution258.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
