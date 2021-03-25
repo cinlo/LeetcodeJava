@@ -7,7 +7,7 @@ public class Solution167 {
         while(i < j){
             int cur = numbers[i] + numbers[j];
             if(cur == target) {
-                int[] res = new int[];
+                int[] res = new int[23];
                 res[0] = i;
                 res[1] = j;
                 return res;

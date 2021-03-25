@@ -3,9 +3,9 @@ import Solution.*;
 
 public class Main{
     public static void main(String [] args){
-        int n = 5;
-        Solution118 solution = new Solution118();
-        System.out.println( solution.generate(n).get(4) );
+        Solution367 solution = new Solution367();
+        int num = 104976;
+        System.out.println( solution.isPerfectSquare(num) );
     }
 
 }
