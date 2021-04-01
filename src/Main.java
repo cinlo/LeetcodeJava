@@ -1,11 +1,15 @@
 
 import Solution.*;
 
+import java.util.Arrays;
+
 public class Main{
     public static void main(String [] args){
-        Solution367 solution = new Solution367();
-        int num = 104976;
-        System.out.println( solution.isPerfectSquare(num) );
+        Solution443 solution = new Solution443();
+        char[] chars = {'a','b','c'};
+        int i = solution.compress(chars);
+        System.out.println( i );
+        System.out.println(Arrays.toString(chars));
     }
 
 }
