@@ -11,18 +11,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbe5c8ce-78c2-4a83-b02a-623053821913" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solution/Solution443.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/Solution448.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/Solution459.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/Solution463.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/Solution541.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/Solution543.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/Solution557.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Solution1122.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Solution5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Solution572.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Solution628.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Solution671.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Solution680.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Solution733.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Solution784.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Solution796.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Solution819.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Solution836.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Solution852.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Solution884.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Solution917.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Solution938.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Solution/Solution367.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Solution/Solution367.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Solution/Solution414.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Solution/Solution414.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Solution3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution/Solution977.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution/Solution977.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,9 +169,9 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1638" height="364" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1615426799612" />
-    <state x="505" y="231" width="670" height="676" key="search.everywhere.popup" timestamp="1615926975765">
+    <state x="505" y="231" width="670" height="676" key="search.everywhere.popup" timestamp="1617910357748">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="505" y="231" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1615926975765" />
+    <state x="505" y="231" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1617910357748" />
   </component>
 </project>
