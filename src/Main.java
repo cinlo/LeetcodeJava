@@ -4,15 +4,24 @@ import Solution.*;
 import java.util.Arrays;
 
 public class Main{
-    public static void main(String [] args){
-        Solution443 solution = new Solution443();
-        char[] chars = {'a','b','c'};
-        int i = solution.compress(chars);
-        System.out.println( i );
-        System.out.println(Arrays.toString(chars));
-    }
+    public static void main(String[] args){
+        Solution22 solution = new Solution22();
+        int nums = 4;
+        System.out.println( solution.generateParenthesis(nums) );
 
+    }
 }
+
+//public class Main{
+//    public static void main(String [] args){
+//        Solution443 solution = new Solution443();
+//        char[] chars = {'a','b','c'};
+//        int i = solution.compress(chars);
+//        System.out.println( i );
+//        System.out.println(Arrays.toString(chars));
+//    }
+//
+//}
 
 //public class Main{
 //    public static void main(String [] args){
