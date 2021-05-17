@@ -11,21 +11,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbe5c8ce-78c2-4a83-b02a-623053821913" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solution/Solution12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/Solution15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/Solution16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/Solution17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/Solution18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/Solution22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/Solution36.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/Solution39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/Solution40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution/Solution6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Solution42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Solution43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Solution44.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Solution46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Solution47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Solution48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Solution49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Solution50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution/Solution54.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Solution/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Solution/Solution2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Solution/Solution3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Solution/Solution3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Solution/Solution977_S1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Solution/Solution22.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Solution/Solution22.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -126,31 +123,31 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="578" y="276" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1619118148864" />
-    <state width="1638" height="328" key="GridCell.Tab.0.bottom" timestamp="1618784577342">
+    <state width="1638" height="328" key="GridCell.Tab.0.bottom" timestamp="1621293630305">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="328" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1618784577342" />
+    <state width="1638" height="328" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1621293630305" />
     <state width="1638" height="328" key="GridCell.Tab.0.bottom/0.25.1680.956@0.25.1680.956" timestamp="1616715067508" />
     <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.25.1680.959@0.25.1680.959" timestamp="1615312946629" />
     <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.25.1680.960@0.25.1680.960" timestamp="1613691419581" />
-    <state width="1638" height="328" key="GridCell.Tab.0.center" timestamp="1618784577341">
+    <state width="1638" height="328" key="GridCell.Tab.0.center" timestamp="1621293630304">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="328" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1618784577341" />
+    <state width="1638" height="328" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1621293630304" />
     <state width="1638" height="328" key="GridCell.Tab.0.center/0.25.1680.956@0.25.1680.956" timestamp="1616715067506" />
     <state width="1638" height="295" key="GridCell.Tab.0.center/0.25.1680.959@0.25.1680.959" timestamp="1615312946628" />
     <state width="1638" height="295" key="GridCell.Tab.0.center/0.25.1680.960@0.25.1680.960" timestamp="1613691419577" />
-    <state width="1638" height="328" key="GridCell.Tab.0.left" timestamp="1618784577340">
+    <state width="1638" height="328" key="GridCell.Tab.0.left" timestamp="1621293630303">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="328" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1618784577340" />
+    <state width="1638" height="328" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1621293630303" />
     <state width="1638" height="328" key="GridCell.Tab.0.left/0.25.1680.956@0.25.1680.956" timestamp="1616715067506" />
     <state width="1638" height="295" key="GridCell.Tab.0.left/0.25.1680.959@0.25.1680.959" timestamp="1615312946627" />
     <state width="1638" height="295" key="GridCell.Tab.0.left/0.25.1680.960@0.25.1680.960" timestamp="1613691419576" />
-    <state width="1638" height="328" key="GridCell.Tab.0.right" timestamp="1618784577342">
+    <state width="1638" height="328" key="GridCell.Tab.0.right" timestamp="1621293630304">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="328" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1618784577342" />
+    <state width="1638" height="328" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1621293630304" />
     <state width="1638" height="328" key="GridCell.Tab.0.right/0.25.1680.956@0.25.1680.956" timestamp="1616715067507" />
     <state width="1638" height="295" key="GridCell.Tab.0.right/0.25.1680.959@0.25.1680.959" timestamp="1615312946628" />
     <state width="1638" height="295" key="GridCell.Tab.0.right/0.25.1680.960@0.25.1680.960" timestamp="1613691419580" />
@@ -175,10 +172,10 @@
     </state>
     <state x="540" y="299" key="refactoring.ChangeSignatureDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1619117744241" />
     <state x="540" y="317" key="refactoring.ChangeSignatureDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1618433482619" />
-    <state x="505" y="251" width="670" height="660" key="search.everywhere.popup" timestamp="1618433519545">
-      <screen x="0" y="25" width="1680" height="1025" />
+    <state x="505" y="231" width="670" height="676" key="search.everywhere.popup" timestamp="1619648363270">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="505" y="231" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1617998303166" />
+    <state x="505" y="231" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1619648363270" />
     <state x="505" y="251" width="670" height="660" key="search.everywhere.popup/0.25.1680.1025@0.25.1680.1025" timestamp="1618433519545" />
   </component>
   <component name="XDebuggerManager">

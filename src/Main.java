@@ -5,10 +5,9 @@ import java.util.Arrays;
 
 public class Main{
     public static void main(String[] args){
-        Solution22 solution = new Solution22();
-        int nums = 4;
-        System.out.println( solution.generateParenthesis(nums) );
-
+        Solution54 solution = new Solution54();
+        int[][] matrix = {{1,2,3,4},{5,6,7,8},{9,10,11,12},{13,14,15,16}};
+        System.out.println( solution.spiralOrder(matrix));
     }
 }
 
